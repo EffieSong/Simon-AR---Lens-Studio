@@ -49,7 +49,7 @@ var customPoints = [[68,69,70,71,72,73,74],
 
 var switchState = 0; //whether mouth is open
 var preSwitchState = 0;
-var trigger = false;
+script.api.trigger = false;
 
 
 //script.api.getDistance = getDistance;
@@ -71,8 +71,9 @@ function onUpdate() {
         distance = getYDistance(firstSetPosition, secondSetPosition);
         
      //   print(mouthPos);
-       checkPulse(distance);
+        checkPulse(distance);
     }  
+  //  if( script.api.trigger){print("trigger")};
    // print(distance);
 }
 
@@ -82,8 +83,10 @@ function checkPulse(distance){
     
     if (switchState < preSwitchState) {
         
-        trigger = true;
-        sendEvent(trigger);        
+        script.api.trigger = true;
+      //  sendEvent(trigger);        
+    }else{
+        script.api.trigger = false;
     }
     preSwitchState = switchState;    
  }

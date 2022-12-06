@@ -1,0 +1,1293 @@
+{
+    "lens_id": "",
+    "document_id": "kw0jGH9m_9d6AImB8op0",
+    "original_document_id": "fTNjqDOOhHv8j8-El1Gp",
+    "version": "29",
+    "lastChanged": "1670366221566",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "34",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "34",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Box"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Face Mesh"
+                    ],
+                    [
+                        "Face Mesh Default"
+                    ],
+                    [
+                        "Facelandmarks Helpers",
+                        "Behavior"
+                    ],
+                    [
+                        "Facelandmarks Helpers",
+                        "FaceLandmarksDistanceResponse"
+                    ],
+                    [
+                        "Facelandmarks Helpers",
+                        "FaceLandmarksDistanceResponse_custom"
+                    ],
+                    [
+                        "Facelandmarks Helpers",
+                        "FaceLandmarksDistanceTrigger"
+                    ],
+                    [
+                        "Facelandmarks Helpers",
+                        "FaceLandmarksDistanceTrigger_custom"
+                    ],
+                    [
+                        "Facelandmarks Helpers",
+                        "IndependentlyEyeBlinkCheck"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Face Mesh Texture"
+                    ],
+                    [
+                        "Toon"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "true"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                "",
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1670265070394875:174498",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1670265070431146:174523",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1670265070517626:174570",
+                    "name": "Files\/File10.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1670265070526001:174581",
+                    "name": "Files\/File12.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1670265428796329:196695",
+                    "name": "Files\/File17.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1670273391533363:2022",
+                    "name": "Files\/File18.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1670273391581321:2026",
+                    "name": "Files\/File19.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1670273392129259:2030",
+                    "name": "Files\/File20.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1670273392137809:2034",
+                    "name": "Files\/File21.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1670273392184106:2038",
+                    "name": "Files\/File22.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1670277990584602:96289",
+                    "name": "Files\/File23.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1670278949354284:204748",
+                    "name": "Files\/File25",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1670340890484427:28149",
+                    "name": "Files\/File27.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1670365985798196:4550",
+                    "name": "Files\/File28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1670265070195574:174415",
+                "4": "1670265070196034:174416",
+                "5": "1670265070272968:174439",
+                "6": "1670273284225637:1998",
+                "7": "1670273415125864:2212",
+                "8": "1670274439205654:3408",
+                "9": "1670277699268648:64476",
+                "10": "1670277729851181:67342",
+                "11": "1670277990592920:96301",
+                "12": "1670278150918794:110782",
+                "13": "1670278192071549:115677",
+                "14": "1670278194201663:116854",
+                "15": "1670278195990094:118036",
+                "16": "1670341270834168:52927"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.lsmat"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.jpg"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.jpg"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.jpg"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.jpg"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.js"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.js"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.js"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.js"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.js"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.js"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.mesh"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.mesh"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.lsmat"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.js"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.js"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "26660",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "26661",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "26662",
+                        "v": "Textures\/Face Mesh Texture.jpg"
+                    },
+                    {
+                        "k": "26663",
+                        "v": "Face Mesh Default.lsmat"
+                    },
+                    {
+                        "k": "26665",
+                        "v": "FaceMeshExpressions.js"
+                    },
+                    {
+                        "k": "26666",
+                        "v": "Facelandmarks Helpers"
+                    },
+                    {
+                        "k": "26667",
+                        "v": "Facelandmarks Helpers\/FaceLandmarksDistanceResponse.js"
+                    },
+                    {
+                        "k": "26668",
+                        "v": "Facelandmarks Helpers\/Behavior.js"
+                    },
+                    {
+                        "k": "26669",
+                        "v": "Facelandmarks Helpers\/FaceLandmarksDistanceResponse_custom.js"
+                    },
+                    {
+                        "k": "26670",
+                        "v": "Facelandmarks Helpers\/FaceLandmarksDistanceTrigger_custom.js"
+                    },
+                    {
+                        "k": "26671",
+                        "v": "Facelandmarks Helpers\/FaceLandmarksDistanceTrigger.js"
+                    },
+                    {
+                        "k": "26672",
+                        "v": "Box.mesh"
+                    },
+                    {
+                        "k": "26673",
+                        "v": "Toon.lsmat"
+                    },
+                    {
+                        "k": "26674",
+                        "v": "Facelandmarks Helpers\/IndependentlyEyeBlinkCheck.js"
+                    },
+                    {
+                        "k": "26675",
+                        "v": "Script.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "26661",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "26662",
+                        "v": "c1b22adb808b801d453498c35c300b9a"
+                    },
+                    {
+                        "k": "26663",
+                        "v": "d69a7a53e6f801bf3c6ab6e015bb50e3"
+                    },
+                    {
+                        "k": "26664",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "26665",
+                        "v": "a267d75de205396e54e6537d6f23a17c"
+                    },
+                    {
+                        "k": "26666",
+                        "v": "e29facf33c052a14a6496fa2bcdfa14a"
+                    },
+                    {
+                        "k": "26667",
+                        "v": "7a3d2c5757fa87ae076fd7edb7e8055f"
+                    },
+                    {
+                        "k": "26668",
+                        "v": "635e14b40c256807a46b6e3d7602991b"
+                    },
+                    {
+                        "k": "26669",
+                        "v": "86f94ce72f9376c3a4f718b24b5bb2b4"
+                    },
+                    {
+                        "k": "26670",
+                        "v": "4b73bf53ea98b45e93604a0de9968d09"
+                    },
+                    {
+                        "k": "26671",
+                        "v": "01831b26cf7ce5ebcf9e030f32a2724d"
+                    },
+                    {
+                        "k": "26672",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "26673",
+                        "v": "065e0012d16c5cbd623e299d48e4a29a"
+                    },
+                    {
+                        "k": "26674",
+                        "v": "4630ed479df9a5d75c7164e11cc6fd43"
+                    },
+                    {
+                        "k": "26675",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-12-06T12:05:05",
+                        "name": "Public",
+                        "hash": "75edbe1bfbb84947bb6174c943da819f",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-06T10:22:15",
+                                "name": "Box.mesh",
+                                "hash": "621da74e06cc402b895f39376927a9d1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-06T10:22:15",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-06T10:22:15",
+                                "name": "Face Mesh Default.lsmat",
+                                "hash": "d69a7a53e6f801bf3c6ab6e015bb50e3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-12-06T12:04:25",
+                                "name": "Facelandmarks Helpers",
+                                "hash": "17667900a0d17b688f2d1cb74cc4b460",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-06T10:22:15",
+                                        "name": "Behavior.js",
+                                        "hash": "635e14b40c256807a46b6e3d7602991b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-06T10:22:15",
+                                        "name": "FaceLandmarksDistanceResponse.js",
+                                        "hash": "7a3d2c5757fa87ae076fd7edb7e8055f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-06T10:22:15",
+                                        "name": "FaceLandmarksDistanceResponse_custom.js",
+                                        "hash": "86f94ce72f9376c3a4f718b24b5bb2b4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-06T10:22:15",
+                                        "name": "FaceLandmarksDistanceTrigger.js",
+                                        "hash": "01831b26cf7ce5ebcf9e030f32a2724d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-06T12:39:33",
+                                        "name": "FaceLandmarksDistanceTrigger_custom.js",
+                                        "hash": "4b73bf53ea98b45e93604a0de9968d09",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-06T10:22:15",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-06T17:36:55",
+                                        "name": "IndependentlyEyeBlinkCheck.js",
+                                        "hash": "4630ed479df9a5d75c7164e11cc6fd43",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-06T10:22:15",
+                                "name": "FaceMeshExpressions.js",
+                                "hash": "a267d75de205396e54e6537d6f23a17c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-06T10:22:15",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-11-14T19:28:46",
+                                "name": "Script.js",
+                                "hash": "59361291686fd7cebf3981836238abbb",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-12-06T10:22:15",
+                                "name": "Textures",
+                                "hash": "4753f02a5e1e2088d132995d8a6c507a",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-06T10:22:15",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-06T10:22:15",
+                                        "name": "Face Mesh Texture.jpg",
+                                        "hash": "c1b22adb808b801d453498c35c300b9a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-12-06T10:22:15",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-06T10:22:15",
+                                "name": "Toon.lsmat",
+                                "hash": "065e0012d16c5cbd623e299d48e4a29a",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Mesh",
+                        "type": "3",
+                        "subtype": "2",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1670265070394875:174498",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26660",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1670265070517626:174570",
+                                "fileId": "10",
+                                "originalId": "11",
+                                "publicId": "26661",
+                                "source": "\/Users\/SYF\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiokCJhDEoTQPQd\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "cb607d7b25a160872c49fb4d2635cc33"
+                                }
+                            },
+                            {
+                                "name": "Face Mesh Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1670265070526001:174581",
+                                "fileId": "12",
+                                "originalId": "13",
+                                "publicId": "26662",
+                                "source": "\/Users\/SYF\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiokCJhDEoTQPQd\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "c1b22adb808b801d453498c35c300b9a"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Mesh Default",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1670265070431146:174523",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "26663",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "FaceMeshExpressions",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1670265428796329:196695",
+                        "fileId": "17",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26665",
+                        "source": "\/Users\/SYF\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiokCJhDEoTQPQd\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Facelandmarks Helpers",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26666",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "FaceLandmarksDistanceResponse",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1670273391533363:2022",
+                                "fileId": "18",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26667",
+                                "source": "\/Users\/SYF\/100_Local Projects\/lensStudio\/Simon AR\/Public\/Facelandmarks Helpers\/FaceLandmarksDistanceResponse.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Behavior",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1670273391581321:2026",
+                                "fileId": "19",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26668",
+                                "source": "\/Users\/SYF\/100_Local Projects\/lensStudio\/Simon AR\/Public\/Facelandmarks Helpers\/Behavior.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "FaceLandmarksDistanceResponse_custom",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1670273392129259:2030",
+                                "fileId": "20",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26669",
+                                "source": "\/Users\/SYF\/100_Local Projects\/lensStudio\/Simon AR\/Public\/Facelandmarks Helpers\/MouthOpenThenCloseResponse.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "FaceLandmarksDistanceTrigger_custom",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1670273392137809:2034",
+                                "fileId": "21",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26670",
+                                "source": "\/Users\/SYF\/100_Local Projects\/lensStudio\/Simon AR\/Public\/Facelandmarks Helpers\/MouthOpenThenCloseTrigger.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "FaceLandmarksDistanceTrigger",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "23",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1670273392184106:2038",
+                                "fileId": "22",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26671",
+                                "source": "\/Users\/SYF\/100_Local Projects\/lensStudio\/Simon AR\/Public\/Facelandmarks Helpers\/FaceLandmarksDistanceTrigger.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "IndependentlyEyeBlinkCheck",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "26",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1670340890484427:28149",
+                                "fileId": "27",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26674",
+                                "source": "C:\/Users\/ysong\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiojPUeNwHMFcIB\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Box",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1670277990584602:96289",
+                        "fileId": "23",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26672",
+                        "source": "\/Users\/SYF\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioePGLpAeUnBfh\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": {
+                            "info": {
+                                "vertexAttribs": [
+                                    {
+                                        "semantic": "position",
+                                        "format": "9",
+                                        "canBeDisabled": "false"
+                                    },
+                                    {
+                                        "semantic": "normal",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "tangent",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "color",
+                                        "format": "3",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "texture0",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    }
+                                ],
+                                "hasBlendShapes": "false"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Toon",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1670278949354284:204748",
+                        "fileId": "25",
+                        "originalId": "26",
+                        "publicId": "26673",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Script",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1670365985798196:4550",
+                        "fileId": "28",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26675",
+                        "source": "C:\/Users\/ysong\/Documents\/GitHub\/Simon-AR---Lens-Studio\/Public\/Script.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1670274439205654:3408"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1670265070526001:174581",
+                    "v": {
+                        "infos": {
+                            "originalSize": "13493",
+                            "compressedSize": "13493",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "4194304",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "14",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c1b22adb808b801d453498c35c300b9a",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "15"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1670277990584602:96289",
+                    "v": {
+                        "infos": {
+                            "originalSize": "794",
+                            "compressedSize": "794",
+                            "originalRAM": "1320",
+                            "compressedRAM": "1320",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "24",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1670278949354284:204748",
+                    "v": "4pwFUMNI4K3KZxZJaiZARG"
+                }
+            ]
+        },
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.34.0"
+}
