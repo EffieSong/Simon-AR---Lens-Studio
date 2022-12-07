@@ -3,7 +3,7 @@
     "document_id": "kw0jGH9m_9d6AImB8op0",
     "original_document_id": "fTNjqDOOhHv8j8-El1Gp",
     "version": "29",
-    "lastChanged": "1670433048859",
+    "lastChanged": "1670440131342",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -698,10 +698,10 @@
             "mapPinPoints": ""
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1670429972723227:49200"
+            "active_graph_asset": "-1:-1"
         },
         "Script::UiComponent": {
-            "active_graph_asset": "1670429723868830:6627"
+            "active_graph_asset": "-1:-1"
         },
         "VFX::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -986,14 +986,6 @@
                     "resId": "43",
                     "uid": "1670429723783868:6619",
                     "name": "Files\/File51.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "44",
-                    "uid": "1670429723843469:6623",
-                    "name": "Files\/File52",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -5607,7 +5599,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1670277729851181:67342"
+                    "1670265070272968:174439"
                 ]
             }
         },
