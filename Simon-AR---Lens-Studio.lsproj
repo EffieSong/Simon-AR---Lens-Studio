@@ -3,7 +3,7 @@
     "document_id": "kw0jGH9m_9d6AImB8op0",
     "original_document_id": "fTNjqDOOhHv8j8-El1Gp",
     "version": "29",
-    "lastChanged": "1670440131342",
+    "lastChanged": "1670956363967",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -31,6 +31,9 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
+                    [
+                        "Behavior"
+                    ],
                     [
                         "Box"
                     ],
@@ -646,9 +649,7 @@
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                [
-                    "1670273284225637:1998"
-                ]
+                ""
             ],
             "selectionSetList": ""
         },
@@ -687,7 +688,14 @@
         },
         "InspectorUiComponent": {
             "collapsedList": [
-                "",
+                [
+                    "1670429789317732:21719",
+                    "1670430494608228:107169",
+                    "1670432203668897:234715",
+                    "1670432978094653:378703",
+                    "1670950768257724:282267",
+                    "1670950873073501:307585"
+                ],
                 ""
             ]
         },
@@ -1445,6 +1453,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "102",
+                    "uid": "1670950464456198:238625",
+                    "name": "Files\/File119.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -1486,7 +1502,10 @@
                 "15": "1670278195990094:118036",
                 "16": "1670341270834168:52927",
                 "17": "1670429761773521:13078",
-                "18": "1670429789317471:21718"
+                "18": "1670429789317471:21718",
+                "19": "1670950382619173:224263",
+                "20": "1670950465012035:238636",
+                "21": "1670951131962056:371876"
             }
         },
         "LayerComponent": {
@@ -1968,6 +1987,10 @@
                 {
                     "k": "118",
                     "v": "Files\/File118.js"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.js"
                 }
             ]
         },
@@ -2421,6 +2444,10 @@
                     {
                         "k": "26768",
                         "v": "Script 2.js"
+                    },
+                    {
+                        "k": "29452",
+                        "v": "Behavior.js"
                     }
                 ],
                 "hashes": [
@@ -2863,15 +2890,26 @@
                     {
                         "k": "26768",
                         "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "29452",
+                        "v": "500c977bf4ed80487e2790db18d68fee"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-12-07T12:01:27",
+                        "lastModified": "2022-12-13T11:54:25",
                         "name": "Public",
-                        "hash": "2edc9e46ff211b31027fb17a63c9d982",
+                        "hash": "077fbcb8969d82056b60fba142aab727",
                         "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-13T11:54:24",
+                                "name": "Behavior.js",
+                                "hash": "500c977bf4ed80487e2790db18d68fee",
+                                "children": ""
+                            },
                             {
                                 "isFolder": "false",
                                 "lastModified": "2022-12-06T10:22:15",
@@ -5592,6 +5630,20 @@
                         "publicId": "26768",
                         "source": "C:\/Users\/ysong\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioushXNdgVtddW\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
+                    },
+                    {
+                        "name": "Behavior",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "102",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1670950464456198:238625",
+                        "fileId": "119",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29452",
+                        "source": "C:\/Users\/ysong\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiowUlTOMaAtEBF\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
                     }
                 ]
             }
@@ -5599,7 +5651,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1670265070272968:174439"
+                    "1670950465012035:238636"
                 ]
             }
         },
